@@ -1,4 +1,31 @@
-<h1 align="center" text-color="red">Hi 👋, I'm Rohan Mondal</h1>
+<h1 align="center">
+  <span style="background: linear-gradient(90deg, #FF6B6B, #FFD93D, #6BCB77, #4D96FF); 
+               -webkit-background-clip: text; 
+               -webkit-text-fill-color: transparent;
+               font-weight: bold;">
+    Hi, I'm Rohan Mondal
+  </span> 
+  <img src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" 
+       alt="hi" 
+       width="40" 
+       style="animation: wave 2s infinite; transform-origin: 70% 70%;">
+</h1>
+
+<!-- CSS animation inside README -->
+<style>
+@keyframes wave {
+  0% { transform: rotate(0.0deg) }
+  10% { transform: rotate(14.0deg) }
+  20% { transform: rotate(-8.0deg) }
+  30% { transform: rotate(14.0deg) }
+  40% { transform: rotate(-4.0deg) }
+  50% { transform: rotate(10.0deg) }
+  60% { transform: rotate(0.0deg) }
+  100% { transform: rotate(0.0deg) }
+}
+</style>
+
+
 
 <p align="center">
   <a href="https://git.io/typing-svg">
