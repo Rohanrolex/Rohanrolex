@@ -1,6 +1,14 @@
 <h1 align="center">
-  <img alt="Hi 👋, I'm Rohan Mondal" src="data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%27http%3A//www.w3.org/2000/svg%27%20width%3D%27800%27%20height%3D%27120%27%20viewBox%3D%270%200%20800%20120%27%3E%0A%20%20%3Crect%20width%3D%27100%25%27%20height%3D%27100%25%27%20fill%3D%27%23000%27%20/%3E%0A%20%20%3Ctext%20x%3D%270%27%20y%3D%2764%27%20fill%3D%27%234D96FF%27%20font-size%3D%2736%27%20font-family%3D%27Fira%20Code%2C%20monospace%27%20dominant-baseline%3D%27middle%27%3E%0A%20%20%20%20Hi%20%F0%9F%91%8B%2C%20I%27m%20Rohan%20Mondal%0A%20%20%20%20%3CannotateTransform%20attributeName%3D%27transform%27%20type%3D%27translate%27%20from%3D%27-820%200%27%20to%3D%2720%200%27%20dur%3D%271.2s%27%20fill%3D%27freeze%27%20/%3E%0A%20%20%3C/text%3E%0A%3C/svg%3E" />
+  <img alt="Hi 👋, I'm Rohan Mondal" src="data:image/svg+xml;utf8,
+  <svg xmlns='http://www.w3.org/2000/svg' width='800' height='120' viewBox='0 0 800 120'>
+    <rect width='100%' height='100%' fill='#000'/>
+    <text x='50%' y='50%' fill='#4D96FF' font-size='36' font-family='Fira Code, monospace' text-anchor='middle' dominant-baseline='middle'>
+      Hi 👋, I'm Rohan Mondal
+      <animateTransform attributeName='transform' type='translate' from='-820 0' to='20 0' dur='1.5s' fill='freeze'/>
+    </text>
+  </svg>" />
 </h1>
+
 
 
 
