@@ -53,7 +53,14 @@
        alt="GitHub Stats" height="160"/>
 
   <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=rohanrolex&theme=radical" 
-       alt="Streak Stats" height="160"/>
+ ## 🔥 GitHub Streak
+
+
+
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rohanrolex&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" 
+       alt="GitHub Streak Stats" height="180"/>
+
+</div>
+
 
 </div>
