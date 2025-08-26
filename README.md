@@ -11,7 +11,7 @@
 
 <p align="left">
   <a href="https://github.com/Rohanrolex" target="_blank">
-    <img src="https://img.shields.io/badge/Visit_Profile-FF0000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
+    <img src="https://img.shields.io/badge/Visit_My_Profile-FF0000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
   </a>
 </p>
 
