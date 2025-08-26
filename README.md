@@ -1,6 +1,7 @@
 <h1 align="center">
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Hi%20👋,%20I'm%20Rohan%20Mondal&width=800&height=100" alt="Blinking Text" />
+  <img src="https://svg-banners.vercel.app/api?type=wave&text1=Hi%20👋,%20I'm%20Rohan%20Mondal&width=800&height=150" alt="Hi, I'm Rohan Mondal" />
 </h1>
+
 
 
 
