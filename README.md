@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohan Mondal</h1>
 <h3 align="center">A passionate frontend and backend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohanrolex&label=Profile%20views&color=0e75b6&style=flat" alt="rohanrolex" /> </p>
+<p align="left"> <img src="https://github.com/account" alt="rohanrolex" /> </p>
 
 <p align="left"> <a href="(https://github.com/Rohanrolex"><img src="https://github.com/Rohanrolex" alt="rohanrolex" /></a> </p>
 
