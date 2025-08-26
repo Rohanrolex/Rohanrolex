@@ -60,7 +60,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=rohanrolex&show_icons=true&locale=en&theme=radical" 
        alt="GitHub Stats" height="160"/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohanrolex&" alt="rohanrolex" /></p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rohanrolex" alt="rohanrolex" />
+</div>
 
 
 </div>
