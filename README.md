@@ -19,7 +19,8 @@
 </p>
 
 
-<p align="left"> <a href="https://github.com/Rohanrolex"><img src="https://github.com/Rohanrolex" alt="rohanrolex" /></a> </p>
+<p align="left"> <a href="https://github.com/Rohanrolex"><img src="<img width="572" height="569" alt="image" src="https://github.com/user-attachments/assets/9f73e1a3-9bad-4c63-8829-406ef74a9941" />
+" alt="rohanrolex" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/rohan mondal" target="blank"><img src="https://img.shields.io/twitter/follow/rohan mondal?logo=twitter&style=for-the-badge" alt="rohan mondal" /></a> </p>
 
