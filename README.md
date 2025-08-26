@@ -1,13 +1,7 @@
 <h1 align="center">
-  <img alt="Hi 👋, I'm Rohan Mondal" src="data:image/svg+xml;utf8,
-  <svg xmlns='http://www.w3.org/2000/svg' width='800' height='120' viewBox='0 0 800 120'>
-    <rect width='100%' height='100%' fill='#000'/>
-    <text x='50%' y='50%' fill='#4D96FF' font-size='36' font-family='Fira Code, monospace' text-anchor='middle' dominant-baseline='middle'>
-      Hi 👋, I'm Rohan Mondal
-      <animateTransform attributeName='transform' type='translate' from='-820 0' to='20 0' dur='1.5s' fill='freeze'/>
-    </text>
-  </svg>" />
+  <img src="./banner.svg" alt="Hi 👋, I'm Rohan Mondal" />
 </h1>
+
 
 
 
