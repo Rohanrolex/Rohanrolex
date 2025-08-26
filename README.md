@@ -52,7 +52,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=rohanrolex&show_icons=true&locale=en&theme=radical" 
        alt="GitHub Stats" height="160"/>
 
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohanrolex&" alt="rohanrolex" /></p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohanrolex&background=000000&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideNums=00FF00&sideLabels=00FF00&dates=00FF00&currStreakNum=00FF00" alt="rohanrolex" />
+</p>
 
 
 </div>
