@@ -1,6 +1,7 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=2000&color=00FF00&center=true&vCenter=true&repeat=false&width=600&lines=Hi+👋,+I'm+Rohan+Mondal" alt="Hi 👋, I'm Rohan Mondal" />
+  <img src="https://raw.githubusercontent.com/rohanrolex/rohanrolex/main/slide-text.svg" alt="Hi 👋, I'm Rohan Mondal" />
 </h1>
+
 
 
 
