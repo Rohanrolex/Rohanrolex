@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Hi 👋, I'm Rohan Mondal" />
+  Hi 👋, I'm Rohan Mondal
 </h1>
 
 
