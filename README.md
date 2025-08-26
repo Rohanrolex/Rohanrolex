@@ -58,7 +58,9 @@
        alt="GitHub Stats" height="160"/>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohanrolex&" alt="rohanrolex" /></p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohanrolex&" alt="rohanrolex" />
+</p>
 
 
 </div>
