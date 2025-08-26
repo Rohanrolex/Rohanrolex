@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohanrolex&label=Profile%20views&color=0e75b6&style=flat" alt="rohanrolex" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohanrolex" alt="rohanrolex" /></a> </p>
+<p align="left"> <a href="(https://github.com/Rohanrolex"><img src="https://github.com/Rohanrolex" alt="rohanrolex" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/rohan mondal" target="blank"><img src="https://img.shields.io/twitter/follow/rohan mondal?logo=twitter&style=for-the-badge" alt="rohan mondal" /></a> </p>
 
