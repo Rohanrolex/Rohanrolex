@@ -1,6 +1,7 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=4D96FF&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Rohan+Mondal_|" alt="Typing SVG" />
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Hi%20👋,%20I'm%20Rohan%20Mondal&width=800&height=100" alt="Blinking Text" />
 </h1>
+
 
 
 
