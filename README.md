@@ -1,7 +1,6 @@
 <h1 align="center">
-  <img src="https://svg-banners.vercel.app/api?type=wavy&text1=Hi%20👋,%20I'm%20Rohan%20Mondal&width=800&height=150" alt="wavy banner"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=4D96FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B,+I'm+Rohan+Mondal" alt="Typing SVG" />
 </h1>
-
 
 
 
