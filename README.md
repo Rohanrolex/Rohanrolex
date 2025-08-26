@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rohan Mondal</h1>
-<h3 align="center">A passionate frontend and backend developer from India</h3>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Problem+Solver;Open+Source+Contributor" alt="Typing SVG" />
+  </a>
+</p>
 
 
 <p align="left"> <a href="(https://github.com/Rohanrolex"><img src="https://github.com/Rohanrolex" alt="rohanrolex" /></a> </p>
