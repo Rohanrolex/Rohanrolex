@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://i.imgur.com/4M7IWwP.png" alt="Hi 👋, I'm Rohan Mondal" />
+  <img src="C:\Users\Rohan Mondal\Downloads\824ad4e317448381bb483f496b6c8285.jpg" alt="Hi 👋, I'm Rohan Mondal" />
 </h1>
 
 
