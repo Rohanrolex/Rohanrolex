@@ -53,8 +53,7 @@
        alt="GitHub Stats" height="160"/>
 
   <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rohanrolex&theme=radical" 
+  <img src="https://streak-stats.demolab.com?user=rohanrolex&theme=radical" 
        alt="Streak Stats" height="160"/>
 
 </div>
-
