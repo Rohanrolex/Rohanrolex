@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohan Mondal</h1>
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Problem+Solver;Open+Source+Contributor" alt="Typing SVG" />
@@ -6,7 +7,7 @@
 </p>
 
 
-<p align="left"> <a href="(https://github.com/Rohanrolex"><img src="https://github.com/Rohanrolex" alt="rohanrolex" /></a> </p>
+<p align="left"> <a href="https://github.com/Rohanrolex"><img src="https://github.com/Rohanrolex" alt="rohanrolex" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/rohan mondal" target="blank"><img src="https://img.shields.io/twitter/follow/rohan mondal?logo=twitter&style=for-the-badge" alt="rohan mondal" /></a> </p>
 
