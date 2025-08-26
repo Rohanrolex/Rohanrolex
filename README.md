@@ -11,9 +11,11 @@
 
 <p align="left">
   <a href="https://github.com/Rohanrolex" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20Profile-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
+    <img src="https://img.shields.io/badge/Visit_Profile-FF0000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
   </a>
 </p>
+
+
 
 
 <p align="left"> <a href="https://twitter.com/rohan mondal" target="blank"><img src="https://img.shields.io/twitter/follow/rohan mondal?logo=twitter&style=for-the-badge" alt="rohan mondal" /></a> </p>
